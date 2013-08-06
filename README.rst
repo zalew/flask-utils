@@ -23,6 +23,8 @@ Project links
 Install
 --------
 
+.. code-block:: shell
+
     pip install flask-utils
 
 Contents
@@ -30,6 +32,8 @@ Contents
 
 
 **decorators.py**
+
+.. code-block:: python
 
     from flask_utils.decorators import render
 
