@@ -6,7 +6,7 @@ setup(
     name='flask-utils',
     version='.'.join(map(str, VERSION)),
     description='Various Flask utilities.',
-    long_description=open(os.path.join(os.path.dirname(__file__), 'README.md')).read(),
+    long_description=open(os.path.join(os.path.dirname(__file__), 'README.rst')).read(),
     keywords='flask utils',
     author='Jakub Zalewski',
     author_email='zalew7@gmail.com',
